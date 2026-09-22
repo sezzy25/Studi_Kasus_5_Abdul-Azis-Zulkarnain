@@ -10,7 +10,7 @@ if dan elif digunakan sebagai menetukan tarif biaya berdasarkan jenis kamarnya, 
 
 <img width="577" height="181" alt="Screenshot 2026-09-22 182144" src="https://github.com/user-attachments/assets/2a4aee61-95d0-4463-ad9d-2fe61a1edb3c" />
 
-selanjutnya ada input, fungsinya untuk meminta data seperti jenis kamar dan lama menginap, setelah user memasukan data maka program akan langsung menghitung berdasarkan data yang di input oleh user
+selanjutnya ada input, fungsinya untuk meminta data seperti jenis kamar dan lama menginap, lalu ada int yang berfungsi sebagai mengubah data menjadi angka, setelah user memasukan data maka program akan langsung menghitung berdasarkan data yang di input oleh user
 
 <img width="465" height="130" alt="Screenshot 2026-09-22 182327" src="https://github.com/user-attachments/assets/3e7b9cbb-1c62-4176-95ab-6a95447b0e59" />
 

@@ -7,10 +7,13 @@ def hitung_biaya(jenis_kamar, lama_menginap):
     total = tarif * lama_menginap
     return total
 
+print("PEMESANAN HOTEL")
+
 jenis_kamar = input("Masukkan jenis kamar (Standard/Deluxe): ")
-check_in = input("Masukkan tanggal check-in: ")
-check_out = input("Masukkan tanggal check-out: ")
-lama_menginap = int(input("Masukkan lama menginap(malam): "))
+check_in = int(input("Tanggal check-in: "))
+check_out = int(input("Tanggal check-out: "))
+
+lama_menginap = check_out - check_in
 
 total = hitung_biaya(jenis_kamar, lama_menginap)
 
